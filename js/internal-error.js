@@ -1,5 +1,5 @@
 // BONUS:
-
+/*
 // What is wrong here?
 function loopThatNeverEnds(x) {
     // The base case is missing
@@ -18,4 +18,3 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
-

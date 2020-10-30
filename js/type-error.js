@@ -7,11 +7,31 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
+//console.lg('hello');
 
 // Error 2
+/*
+const x = 'abc';
+x = 'y';
+*/
 
 // Error 3
+//let x = document.getelementById('three');
 
 // Error 4
+
+class Dog {
+    constructor(name) {
+        this.name = name;
+    }
+
+    name() {
+        console.log(this.name);
+    }
+}
+
+dog = new Dog('spot');
+
+setInterval(dog.name, 1000);
 
 // Error 5
